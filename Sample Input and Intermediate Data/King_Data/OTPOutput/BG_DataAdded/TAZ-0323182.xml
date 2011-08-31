@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TAZ>
+  <zone taz="0323182" />
+  <area val="0.0" />
+  <acres val="0.0" />
+  <population_data>
+    <year_projection year="2010">
+      <population val="1165" />
+    </year_projection>
+  </population_data>
+  <employment_data>
+    <year_projection year="2010">
+      <employment val="55" />
+    </year_projection>
+  </employment_data>
+  <household_data />
+  <destinations>
+    <destination taz="0323171">
+      <total_time val="1186000" />
+      <walk_time val="1186000" />
+      <walk_distance val="1576.499808453937" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:40:14 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0323182">
+      <total_time val="300000" />
+      <walk_time val="300000" />
+      <walk_distance val="0.0" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jul 16 08:55:00 EDT 3910" />
+      <end_time val="Sat Jul 16 09:00:00 EDT 3910" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0323162">
+      <total_time val="2829000" />
+      <walk_time val="2829000" />
+      <walk_distance val="3743.2261889149077" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:12:51 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0323161">
+      <total_time val="2498000" />
+      <walk_time val="2498000" />
+      <walk_distance val="3319.7418414030135" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:18:22 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0323176">
+      <total_time val="3183000" />
+      <walk_time val="3183000" />
+      <walk_distance val="4226.995816885326" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:06:57 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0323175">
+      <total_time val="1514000" />
+      <walk_time val="1514000" />
+      <walk_distance val="2003.1993397398448" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:34:46 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0323183">
+      <total_time val="681000" />
+      <walk_time val="681000" />
+      <walk_distance val="890.3346562575583" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:48:39 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0323173">
+      <total_time val="1797000" />
+      <walk_time val="1797000" />
+      <walk_distance val="2368.309894613228" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:30:03 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0323172">
+      <total_time val="1252000" />
+      <walk_time val="1252000" />
+      <walk_distance val="1656.4369240107637" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:39:08 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+  </destinations>
+</TAZ>
+

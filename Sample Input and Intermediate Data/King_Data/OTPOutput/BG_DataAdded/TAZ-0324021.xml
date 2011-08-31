@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TAZ>
+  <zone taz="0324021" />
+  <area val="0.0" />
+  <acres val="0.0" />
+  <population_data>
+    <year_projection year="2010">
+      <population val="1275" />
+    </year_projection>
+  </population_data>
+  <employment_data>
+    <year_projection year="2010">
+      <employment val="389" />
+    </year_projection>
+  </employment_data>
+  <household_data />
+  <destinations>
+    <destination taz="0324013">
+      <total_time val="2222000" />
+      <walk_time val="2222000" />
+      <walk_distance val="2934.1943940048027" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:22:58 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0324021">
+      <total_time val="300000" />
+      <walk_time val="300000" />
+      <walk_distance val="0.0" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jul 16 08:55:00 EDT 3910" />
+      <end_time val="Sat Jul 16 09:00:00 EDT 3910" />
+      <drive_time val="null" />
+    </destination>
+  </destinations>
+</TAZ>
+

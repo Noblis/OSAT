@@ -1,0 +1,6 @@
+<config>
+	<merge>C:/Summer2011/King_Data/Shape2Earth/king10bg_part1.kml</merge>
+	<merge>C:/Summer2011/King_Data/Shape2Earth/king10bg_part2.kml</merge>
+	<merge>C:/Summer2011/King_Data/Shape2Earth/king10bg_part3.kml</merge>
+	<output>C:/Summer2011/King_Data/Shape2Earth/king10bg.kml</output>
+</config>

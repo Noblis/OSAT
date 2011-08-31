@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<config>
+	<graph_obj_path>C:/Summer2011/DC_Data/GraphBuilder/Graph.obj</graph_obj_path>
+	<centroid_kml_path>C:/Summer2011/DC_Data/Clipping/dc_split.kml</centroid_kml_path>
+	<output_dir>C:/Summer2011/DC_Data/OTPOutput/</output_dir>
+	<trip_vars>
+		<date>06/11/2011</date>
+		<arrival>09:00</arrival>
+		<max_walk>800</max_walk>
+	</trip_vars>
+</config>-->
+<config>
+	<graph_obj_path>C:/Summer2011/King_Data/GraphBuilder/Graph.obj</graph_obj_path>
+	<centroid_kml_path>C:/Summer2011/King_Data/Clipping/king_bg.kml</centroid_kml_path>
+	<output_dir>C:/Summer2011/King_Data/OTPOutput/</output_dir>
+	<trip_vars>
+		<date>06/11/2011</date>
+		<arrival>09:00</arrival>
+		<max_walk>800</max_walk>
+		<skip>680</skip> <!--680-->
+	</trip_vars>
+</config>

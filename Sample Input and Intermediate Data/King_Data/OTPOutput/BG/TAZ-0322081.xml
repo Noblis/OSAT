@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TAZ>
+  <zone taz="0322081" />
+  <area val="0.0" />
+  <acres val="0.0" />
+  <population_data />
+  <employment_data />
+  <household_data />
+  <destinations>
+    <destination taz="0322112">
+      <total_time val="3863000" />
+      <walk_time val="3863000" />
+      <walk_distance val="5122.323064532053" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 07:55:37 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0322083">
+      <total_time val="3188000" />
+      <walk_time val="3188000" />
+      <walk_distance val="4225.440065481191" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:06:52 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0322084">
+      <total_time val="4729000" />
+      <walk_time val="4729000" />
+      <walk_distance val="6275.6501258277085" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 07:41:11 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0322081">
+      <total_time val="300000" />
+      <walk_time val="300000" />
+      <walk_distance val="0.0" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jul 16 08:55:00 EDT 3910" />
+      <end_time val="Sat Jul 16 09:00:00 EDT 3910" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0322124">
+      <total_time val="4627000" />
+      <walk_time val="4627000" />
+      <walk_distance val="6135.6781714450735" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 07:42:53 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0322082">
+      <total_time val="3356000" />
+      <walk_time val="3356000" />
+      <walk_distance val="4448.884281284367" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 08:04:04 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+    <destination taz="0322113">
+      <total_time val="3724000" />
+      <walk_time val="3724000" />
+      <walk_distance val="4932.311117045286" />
+      <wait_time val="0" />
+      <transit_time val="0" />
+      <transfers val="0" />
+      <start_time val="Sat Jun 11 07:57:56 EDT 2011" />
+      <end_time val="Sat Jun 11 09:00:00 EDT 2011" />
+      <drive_time val="null" />
+    </destination>
+  </destinations>
+</TAZ>
+

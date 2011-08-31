@@ -1,0 +1,281 @@
+route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
+,3,,,KCM,100095,http://metro.kingcounty.gov/tops/bus/schedules/s204_0_.html,Island Crest Wy/S Mercer Shuttle,204
+,3,,,KCM,100044,http://metro.kingcounty.gov/tops/bus/schedules/s015_0_.html,Blue Ridge/Downtown,15
+,3,,,KCM,100224,http://metro.kingcounty.gov/tops/bus/schedules/s044_0_.html,ballard/montlake,44
+,3,,,KCM,100103,http://metro.kingcounty.gov/tops/bus/schedules/s211_0_.html,Eastgate\First Hill 908,211
+,3,,,KCM,100074,http://metro.kingcounty.gov/tops/bus/schedules/s183_0_.html,Kent/Federal Way Shuttle,183
+,3,,,KCM,100206,http://metro.kingcounty.gov/tops/bus/schedules/s035_0_.html,Harbor Island,35
+,3,,,KCM,100205,http://metro.kingcounty.gov/tops/bus/schedules/s348_0_.html,NTC - Richmond Beach,348
+,3,,,KCM,100077,http://metro.kingcounty.gov/tops/bus/schedules/s186_0_.html,Auburn/Enumclaw Shuttle,186
+,3,,,KCM,100203,http://metro.kingcounty.gov/tops/bus/schedules/s346_0_.html,Aurora Village - NTC,346
+,3,,,KCM,100202,http://metro.kingcounty.gov/tops/bus/schedules/s345_0_.html,NTC - SCC,345
+,3,,,KCM,100072,http://metro.kingcounty.gov/tops/bus/schedules/s181_0_.html,Green River CC/Auburn/Federal Way,181
+,3,,,KCM,100073,http://metro.kingcounty.gov/tops/bus/schedules/s182_0_.html,Federal Way-NE Tacoma,182
+,3,,,KCM,100471,http://metro.kingcounty.gov/tops/bus/schedules/s161_0_.html,Lk Meridian - Seattle,161
+,3,,,KCM,100472,http://metro.kingcounty.gov/tops/bus/schedules/s919_0_.html,North and Southeast Auburn,919
+,3,,,KCM,100473,http://metro.kingcounty.gov/tops/bus/schedules/s981_0_.html,Lakeside Activity Bus East,981
+,3,,,KCM,100078,http://metro.kingcounty.gov/tops/bus/schedules/s187_0_.html,Federal Way/Twin Lakes,187
+,3,,,KCM,100475,http://metro.kingcounty.gov/tops/bus/schedules/s157_0_.html,Lake Meridian PR - Seattle,157
+,3,,,KCM,100476,http://metro.kingcounty.gov/tops/bus/schedules/s244_0_.html,Kenmore Kingsgate Overlake,244
+,3,,,KCM,100208,http://metro.kingcounty.gov/tops/bus/schedules/s358_0_.html,Aurora Express,358
+,3,,,KCM,100059,http://metro.kingcounty.gov/tops/bus/schedules/s167_0_.html,Auburn-Kent-Renton-Univ Dist,167
+,3,,,KCM,100168,http://metro.kingcounty.gov/tops/bus/schedules/s277_0_.html,Totem Lake/U Dist.,277
+,3,,,KCM,100169,http://metro.kingcounty.gov/tops/bus/schedules/s028_0_.html,Broadview,28
+,3,,,KCM,100229,http://metro.kingcounty.gov/tops/bus/schedules/s005_0_.html,Greenwood/SCC/Northgate,5
+,3,,,KCM,100162,http://metro.kingcounty.gov/tops/bus/schedules/s271_0_.html,Issaquah to U Dist,271
+,3,,,KCM,100163,http://metro.kingcounty.gov/tops/bus/schedules/s272_0_.html,Eastgate/University Express,272
+,3,,,KCM,100160,http://metro.kingcounty.gov/tops/bus/schedules/s269_0_.html,Issaquah Plateau,269
+,3,,,KCM,100161,http://metro.kingcounty.gov/tops/bus/schedules/s027_0_.html,Yesler-Leschi Park,27
+,3,,,KCM,100508,http://metro.kingcounty.gov/tops/bus/schedules/s823_0_.html,Cougar Mt/NewportHS/IntlHS 823,823
+,3,,,KCM,100010,http://metro.kingcounty.gov/tops/bus/schedules/s110_0_.html,Renton Shuttle,110
+,3,,,KCM,100130,http://metro.kingcounty.gov/tops/bus/schedules/s238_0_.html,UWB Bothell CC/KTC shuttle,238
+,3,,,KCM,100309,http://metro.kingcounty.gov/tops/bus/schedules/s927_0_.html,Issaquah DART,927
+,3,,,KCM,100270,http://metro.kingcounty.gov/tops/bus/schedules/s076_0_.html,Wedgwood Express,76
+,3,,,KCM,100225,http://metro.kingcounty.gov/tops/bus/schedules/s045_0_.html,U Dist Shuttle,45
+,3,,,ST,100465,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/574-Weekday.xml,PT Route 574,574
+,3,,,KCM,100060,http://metro.kingcounty.gov/tops/bus/schedules/s168_0_.html,Timberlane - Kent Rail Station,168
+,3,,,ST,100460,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/577-Weekday.xml,Federal Way - Seattle Express,577
+,3,,,KCM,100300,http://metro.kingcounty.gov/tops/bus/schedules/s917_0_.html,Auburn/Algona/Pacific Shuttle,917
+,3,,,KCM,100469,http://metro.kingcounty.gov/tops/bus/schedules/s180_0_.html,Auburn  Kent  SeaTac  Burien,180
+,3,,,KCM,100277,http://metro.kingcounty.gov/tops/bus/schedules/s082_0_.html,Queen Anne/Greenwood Owl trips,82
+,3,,,KCM,100272,http://metro.kingcounty.gov/tops/bus/schedules/s773_0_.html,West Seattle Water Taxi Shuttle,773
+,3,,,KCM,100062,http://metro.kingcounty.gov/tops/bus/schedules/s017_0_.html,Sunset Hill,17
+,3,,,KCM,100061,http://metro.kingcounty.gov/tops/bus/schedules/s169_0_.html,Renton to Kent Via Benson,169
+,3,,,KCM,100271,http://metro.kingcounty.gov/tops/bus/schedules/s077_0_.html,Jackson Park Express,77
+,3,,,KCM,100276,http://metro.kingcounty.gov/tops/bus/schedules/s081_0_.html,Ballard All-Nighter,81
+,3,,,KCM,100066,http://metro.kingcounty.gov/tops/bus/schedules/s175_0_.html,Dash Pt. Federal wy Via I-5 to Tunnel,175
+,3,,,KCM,100274,http://metro.kingcounty.gov/tops/bus/schedules/s079_0_.html,Lake City Express,79
+,3,,,KCM,100064,http://metro.kingcounty.gov/tops/bus/schedules/s173_0_.html,Federal Way to E Marginal Wy & Boeing,173
+,3,,,KCM,100512,http://metro.kingcounty.gov/tops/bus/schedules/s671_0_.html,A-Line Rapid Ride,A Line
+,3,,,KCM,100496,http://metro.kingcounty.gov/tops/bus/schedules/s930_0_.html,Kingsgate/Redmond/Bear Crk Shuttle,930
+,3,,,KCM,100278,http://metro.kingcounty.gov/tops/bus/schedules/s083_0_.html,Univ Dist/Ravenna Night Owl,83
+,3,,,KCM,100279,http://metro.kingcounty.gov/tops/bus/schedules/s084_0_.html,E Cherry/E Madison All Nighter,84
+,3,,,KCM,100444,http://metro.kingcounty.gov/tops/bus/schedules/s880_0_.html,One Day Only Specials,880
+,3,,,KCM,100178,http://metro.kingcounty.gov/tops/bus/schedules/s304_0_.html,Richmond Beach via Dayton,304
+,3,,,KCM,100175,http://metro.kingcounty.gov/tops/bus/schedules/s301_0_.html,Aurora Village-Downtown Seattle,301
+,3,,,KCM,100174,http://metro.kingcounty.gov/tops/bus/schedules/s030_0_.html,Sandpoint/U-Dist/Seattle Center,30
+,3,,,KCM,100177,http://metro.kingcounty.gov/tops/bus/schedules/s303_0_.html,Shoreline - NTC - First Hill,303
+,3,,,KCM,100019,http://metro.kingcounty.gov/tops/bus/schedules/s120_0_.html,Burien to Seattle via Ambaum & Delridge,120
+,3,,,KCM,100196,http://metro.kingcounty.gov/tops/bus/schedules/s331_0_.html,S03: Kenmore - SCC,331
+,3,,,KCM,100170,http://metro.kingcounty.gov/tops/bus/schedules/s280_0_.html,Seattle/Bellevue/Renton OWL,280
+,3,,,KCM,100173,http://metro.kingcounty.gov/tops/bus/schedules/s003_0_.html,Route 3,3
+,3,,,KCM,100114,http://metro.kingcounty.gov/tops/bus/schedules/s222_0_.html,Bellevue/Factoria/Eastgate,222
+,3,,,KCM,100068,http://metro.kingcounty.gov/tops/bus/schedules/s177_0_.html,Federal Way P&R Via I-5 --Tunnel,177
+,3,,,KCM,100256,http://metro.kingcounty.gov/tops/bus/schedules/s066_0_.html,Ferry Terminal - Ngt P&R,66
+,3,,,KCM,100507,http://metro.kingcounty.gov/tops/bus/schedules/s822_0_.html,Somerset/NewportHS/IntlHS 822,822
+,3,,,KCM,100261,http://metro.kingcounty.gov/tops/bus/schedules/s068_0_.html,Northgate to UW Campus via 25 NE,68
+,3,,,KCM,100263,http://metro.kingcounty.gov/tops/bus/schedules/s007_0_.html,Route 7,7
+,3,,,KCM,100262,http://metro.kingcounty.gov/tops/bus/schedules/s688_0_.html,Center Park,688
+,3,,,KCM,100265,http://metro.kingcounty.gov/tops/bus/schedules/s071_0_.html,View Ridge,71
+,3,,,KCM,100264,http://metro.kingcounty.gov/tops/bus/schedules/s070_0_.html,University District,70
+,3,,,KCM,100267,http://metro.kingcounty.gov/tops/bus/schedules/s073_0_.html,Jackson Park,73
+,3,,,KCM,100266,http://metro.kingcounty.gov/tops/bus/schedules/s072_0_.html,Lake City,72
+,3,,,KCM,100096,http://metro.kingcounty.gov/tops/bus/schedules/s205_0_.html,Mercer Island/U district,205
+,3,,,KCM,100268,http://metro.kingcounty.gov/tops/bus/schedules/s074_0_.html,Sandpoint/U-Dist/CPS,74
+,3,,,KCM,100094,http://metro.kingcounty.gov/tops/bus/schedules/s203_0_.html,Shorewood Van Shuttle,203
+,3,,,KCM,100275,http://metro.kingcounty.gov/tops/bus/schedules/s008_0_.html,Cap.Hill/Denny Wy,8
+,3,,,KCM,100092,http://metro.kingcounty.gov/tops/bus/schedules/s201_0_.html,West Mercer Way Shuttle,201
+,3,,,KCM,100093,http://metro.kingcounty.gov/tops/bus/schedules/s202_0_.html,Mercer Island,202
+,3,,,KCM,100091,http://metro.kingcounty.gov/tops/bus/schedules/s200_0_.html,Issaquah Shuttle,200
+,3,,,KCM,100016,http://metro.kingcounty.gov/tops/bus/schedules/s118_0_.html,Vashon Is--Tahlequah/Burton,118
+,3,,,KCM,100017,http://metro.kingcounty.gov/tops/bus/schedules/s119_0_.html,Dockton,119
+,3,,,KCM,100014,http://metro.kingcounty.gov/tops/bus/schedules/s116_0_.html,Fauntleroy Ferry Dock ONLY,116
+,3,,,KCM,100012,http://metro.kingcounty.gov/tops/bus/schedules/s113_0_.html,Shorewood  White Center  CBD via SR509,113
+,3,,,KCM,100013,http://metro.kingcounty.gov/tops/bus/schedules/s114_0_.html,Renton Highlands to C.D.B. Via I-405 & I-90,114
+,3,,,KCM,100308,http://metro.kingcounty.gov/tops/bus/schedules/s926_0_.html,Eastgate P&R - Crossroads,926
+,3,,,KCM,100011,http://metro.kingcounty.gov/tops/bus/schedules/s111_0_.html,East Renton to C.B.D. Via I-405 & I-90,111
+,3,,,KCM,100140,http://metro.kingcounty.gov/tops/bus/schedules/s025_0_.html,Laurelhurst-Lakeview,25
+,3,,,KCM,100141,http://metro.kingcounty.gov/tops/bus/schedules/s250_0_.html,Seattle/Overlake/Redmond,250
+,3,,,KCM,100142,http://metro.kingcounty.gov/tops/bus/schedules/s251_0_.html,Redmond/Woodinville,251
+,3,,,KCM,100143,http://metro.kingcounty.gov/tops/bus/schedules/s252_0_.html,Seattle/Kingsgate Via SR-520/I-405,252
+,3,,,KCM,100144,http://metro.kingcounty.gov/tops/bus/schedules/s253_0_.html,Bellevue/Redmond Shuttle,253
+,3,,,KCM,100018,http://metro.kingcounty.gov/tops/bus/schedules/s012_0_.html,interlaken park,12
+,3,,,KCM,100147,http://metro.kingcounty.gov/tops/bus/schedules/s256_0_.html,Seattle/S Kirkland/Overlake P & R,256
+,3,,,KCM,100207,http://metro.kingcounty.gov/tops/bus/schedules/s355_0_.html,Shoreline Comm Coll/Greenwood,355
+,3,,,KCM,100284,http://metro.kingcounty.gov/tops/bus/schedules/s888_0_.html,Interlake High School,888
+,3,,,KCM,100231,http://metro.kingcounty.gov/tops/bus/schedules/s051_0_.html,West Seattle/Admiral Shuttle,51
+,3,,,KCM,100222,http://metro.kingcounty.gov/tops/bus/schedules/s042_0_.html,Martin Luther King WY,42
+,0,,,ST,100479,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/599-Weekday.xml,LINK to Sea-Tac,LINK
+,3,,,KCM,100023,http://metro.kingcounty.gov/tops/bus/schedules/s124_0_.html,Tukwila - E Marginal - CBD,124
+,3,,,ST,100239,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/550-Weekday.xml,Bellevue,550
+,3,,,KCM,100120,http://metro.kingcounty.gov/tops/bus/schedules/s229_0_.html,CPS/Eastgate/156 Av SE/Overlake,229
+,3,,,ST,100236,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/545-Weekday.xml,Redmond to CBD Express for Sound Transit,545
+,3,,,KCM,100204,http://metro.kingcounty.gov/tops/bus/schedules/s347_0_.html,NTC - Mountlake Terrace,347
+,3,,,KCM,100070,http://metro.kingcounty.gov/tops/bus/schedules/s179_0_.html,Twin Lakes P&R - Downtown,179
+,3,,,KCM,100071,http://metro.kingcounty.gov/tops/bus/schedules/s018_0_.html,North Beach/Downtown,18
+,3,,,KCM,100157,http://metro.kingcounty.gov/tops/bus/schedules/s266_0_.html,Seattle/Redmond,266
+,3,,,KCM,100156,http://metro.kingcounty.gov/tops/bus/schedules/s265_0_.html,Redmond/Seattle Express,265
+,3,,,KCM,100024,http://metro.kingcounty.gov/tops/bus/schedules/s125_0_.html,Shorewood to CBD via SSCC,125
+,3,,,KCM,100089,http://metro.kingcounty.gov/tops/bus/schedules/s002_0_.html,Route 2,2
+,3,,,KCM,100088,http://metro.kingcounty.gov/tops/bus/schedules/s197_0_.html,Twin Lakes P&R/Federal Way/Univ Dist,197
+,3,,,KCM,100151,http://metro.kingcounty.gov/tops/bus/schedules/s026_0_.html,Latona,26
+,3,,,KCM,100022,http://metro.kingcounty.gov/tops/bus/schedules/s123_0_.html,Gregory Heights express,123
+,3,,,KCM,100254,http://metro.kingcounty.gov/tops/bus/schedules/s065_0_.html,NTC to UW via 5th AV NE  Roosevelt Wy,65
+,3,,,KCM,100084,http://metro.kingcounty.gov/tops/bus/schedules/s192_0_.html,S. Military Rd. - K.D.M. - I-5 to Seneca St.,192
+,3,,,KCM,100087,http://metro.kingcounty.gov/tops/bus/schedules/s196_0_.html,So Federal Way - Seattle,196
+,3,,,KCM,100525,http://metro.kingcounty.gov/tops/bus/schedules/s980_0_.html,Lakeside,980
+,3,,,KCM,100081,http://metro.kingcounty.gov/tops/bus/schedules/s019_0_.html,Magnolia,19
+,3,,,ST,100523,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/595-Weekday.xml,PT Route 595,595
+,3,,,ST,100520,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/592-Weekday.xml,PT Route 592,592
+,3,,,KCM,100082,http://metro.kingcounty.gov/tops/bus/schedules/s190_0_.html,Star Lk. P&R Via SODO Wy,190
+,3,,,KCM,100005,http://metro.kingcounty.gov/tops/bus/schedules/s106_0_.html,Renton-Downtown Seattle,106
+,3,,,KCM,100004,http://metro.kingcounty.gov/tops/bus/schedules/s105_0_.html,Renton Hub - Renton Highlands,105
+,3,,,KCM,100186,http://metro.kingcounty.gov/tops/bus/schedules/s311_0_.html,Seattle/Woodinville,311
+,3,,,KCM,100006,http://metro.kingcounty.gov/tops/bus/schedules/s107_0_.html,Rainier Beach/Renton Shuttle,107
+,3,,,KCM,100001,http://metro.kingcounty.gov/tops/bus/schedules/s001_0_.html,kinnear,1
+,3,,,KCM,100003,http://metro.kingcounty.gov/tops/bus/schedules/s101_0_.html,Renton Transit Center to CBD,101
+,3,,,KCM,100002,http://metro.kingcounty.gov/tops/bus/schedules/s010_0_.html,capitol hill,10
+,3,,,KCM,100481,http://metro.kingcounty.gov/tops/bus/schedules/s775_0_.html,Water Taxi shuttle Alki loop,775
+,3,,,KCM,100201,http://metro.kingcounty.gov/tops/bus/schedules/s342_0_.html,Renton/Shoreline via Bell.&Bothell. for 2002,342
+,3,,,KCM,100009,http://metro.kingcounty.gov/tops/bus/schedules/s011_0_.html,Madison,11
+,3,,,KCM,100128,http://metro.kingcounty.gov/tops/bus/schedules/s236_0_.html,Woodinville/KTC shuttle,236
+,3,,,KCM,100313,http://metro.kingcounty.gov/tops/bus/schedules/s935_0_.html,Kenmore/Finn Hill/Kingsgate P&R,935
+,3,,,KCM,100129,http://metro.kingcounty.gov/tops/bus/schedules/s237_0_.html,Bellevue/Woodinville,237
+,3,,,KCM,100459,http://metro.kingcounty.gov/tops/bus/schedules/s218_0_.html,Issaquah Highlands CBD,218
+,3,,,KCM,100110,http://metro.kingcounty.gov/tops/bus/schedules/s219_0_.html,Factoria/Newport Hills/Coal Creek Pkwy,219
+,3,,,KCM,100153,http://metro.kingcounty.gov/tops/bus/schedules/s261_0_.html,Seattle\Bellevue\Overlake,261
+,3,,,KCM,100438,http://metro.kingcounty.gov/tops/bus/schedules/s821_0_.html,Newport Hills/NewportHS/IntlHS 821,821
+,3,,,ST,100491,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/566-Weekday.xml,Auburn - Overlake,566
+,3,,,ST,100434,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/532-Weekday.xml,Route 532,532
+,3,,,ST,100435,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/535-Weekday.xml,Route 535,535
+,3,,,ST,100430,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/510-Weekday.xml,ST Route 510,510
+,3,,,ST,100431,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/511-Weekday.xml,Route 511,511
+,3,,,ST,100432,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/513-Weekday.xml,Route 513,513
+,3,,,KCM,100122,http://metro.kingcounty.gov/tops/bus/schedules/s230_0_.html,Bellevue/Redmond - Kingsgate/Kirkland,230
+,3,,,KCM,100249,http://metro.kingcounty.gov/tops/bus/schedules/s060_0_.html,Beacon Hill/Broadway dist Shuttle,60
+,3,,,KCM,100121,http://metro.kingcounty.gov/tops/bus/schedules/s023_0_.html,White Center to Downtown via Highland Pk,23
+,3,,,KCM,100126,http://metro.kingcounty.gov/tops/bus/schedules/s234_0_.html,Bellevue/Kirkland/Kenmore,234
+,3,,,KCM,100124,http://metro.kingcounty.gov/tops/bus/schedules/s232_0_.html,Bellevue/Redmond,232
+,3,,,KCM,100125,http://metro.kingcounty.gov/tops/bus/schedules/s233_0_.html,Bellevue/Overlake,233
+,3,,,ST,100243,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/560-Weekday.xml,Bellevue - West Seattle,560
+,3,,,KCM,100242,http://metro.kingcounty.gov/tops/bus/schedules/s056_0_.html,Admiral Way/Alki,56
+,3,,,ST,100241,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/555-Weekday.xml,Issaquah/NTC,555
+,3,,,ST,100240,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/554-Weekday.xml,ST Issaquah - CBD,554
+,3,,,KCM,100246,http://metro.kingcounty.gov/tops/bus/schedules/s057_0_.html,Admiral Way/Genesee Hill,57
+,4,,,KMD,100336,http://www.kingcounty.gov/transportation/kcdot/Marine.aspx,West Seattle Water Taxi - Boat Schedule,973
+,3,,,KCM,100030,http://metro.kingcounty.gov/tops/bus/schedules/s131_0_.html,Normandy Park,131
+,3,,,KCM,100031,http://metro.kingcounty.gov/tops/bus/schedules/s132_0_.html,Des Moines,132
+,3,,,KCM,100032,http://metro.kingcounty.gov/tops/bus/schedules/s133_0_.html,Burien/White Center/UW,133
+,3,,,KCM,100033,http://metro.kingcounty.gov/tops/bus/schedules/s134_0_.html,Downtown to Burien viaPark Lake,134
+,3,,,KCM,100299,http://metro.kingcounty.gov/tops/bus/schedules/s916_0_.html,Kent Shuttle (DART),916
+,3,,,KCM,100038,http://metro.kingcounty.gov/tops/bus/schedules/s139_0_.html,Burien/Gregory Heights Shuttle,139
+,3,,,KCM,100039,http://metro.kingcounty.gov/tops/bus/schedules/s014_0_.html,Route 14,14
+,3,,,KCM,100324,http://metro.kingcounty.gov/tops/bus/schedules/s952_0_.html,Auburn P&R to Boeing Everett,952
+,3,,,KCM,100111,http://metro.kingcounty.gov/tops/bus/schedules/s022_0_.html,West Seattle/White Center,22
+,3,,,KCM,100048,http://metro.kingcounty.gov/tops/bus/schedules/s153_0_.html,Kent/Renton Shuttle,153
+,3,,,KCM,100288,http://metro.kingcounty.gov/tops/bus/schedules/s892_0_.html,Mercer Island HS North Island,892
+,3,,,KCM,100307,http://metro.kingcounty.gov/tops/bus/schedules/s925_0_.html,Newport Hills/Newcastle DART,925
+,3,,,KCM,100493,http://metro.kingcounty.gov/tops/bus/schedules/s224_0_.html,Fall City Redmond Shuttle,224
+,3,,,ST,100518,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/586-Weekday.xml,PT ST Route 586,586
+,3,,,KCM,100258,http://metro.kingcounty.gov/tops/bus/schedules/s661_0_.html,tripper storage shuttle,661
+,3,,,KCM,100489,http://metro.kingcounty.gov/tops/bus/schedules/s156_0_.html,SeaTac - Southcenter,156
+,3,,,KCM,100152,http://metro.kingcounty.gov/tops/bus/schedules/s260_0_.html,Seattle/Juanita/Finn Hill,260
+,4,,,KMD,100337,http://www.kingcounty.gov/transportation/kcdot/Marine.aspx,Vashon Passenger-Only Ferry,975
+,3,,,KCM,100509,http://metro.kingcounty.gov/tops/bus/schedules/s824_0_.html,Newcastle/Factoria/International School 824,824
+,3,,,KCM,100133,http://metro.kingcounty.gov/tops/bus/schedules/s240_0_.html,Bellevue\Renton,240
+,3,,,KCM,100132,http://metro.kingcounty.gov/tops/bus/schedules/s024_0_.html,Magnolia via W Government Wy,24
+,3,,,KCM,100135,http://metro.kingcounty.gov/tops/bus/schedules/s243_0_.html,Jackson Park to Wilburton P&R,243
+,3,,,KCM,100134,http://metro.kingcounty.gov/tops/bus/schedules/s242_0_.html,North Seattle to Overlake,242
+,3,,,KCM,100137,http://metro.kingcounty.gov/tops/bus/schedules/s246_0_.html,Bellevue/Somerset/Factoria - old,246
+,3,,,KCM,100136,http://metro.kingcounty.gov/tops/bus/schedules/s245_0_.html,Factoria - Kirkland,245
+,3,,,KCM,100139,http://metro.kingcounty.gov/tops/bus/schedules/s249_0_.html,Bellevue/Overlake/Redmond,249
+,3,,,KCM,100138,http://metro.kingcounty.gov/tops/bus/schedules/s247_0_.html,Kent/Renton/Redmond Shuttle,247
+,3,,,KCM,100146,http://metro.kingcounty.gov/tops/bus/schedules/s255_0_.html,Seattle/Kirkland/Kingsgate (Tunnel),255
+,3,,,KCM,100051,http://metro.kingcounty.gov/tops/bus/schedules/s158_0_.html,E. Kent--Lk. Meridian Via I-5 & Seneca St. -C.B.D.,158
+,3,,,KCM,100238,http://metro.kingcounty.gov/tops/bus/schedules/s055_0_.html,W. Sea. Admiral Dist,55
+,3,,,KCM,100028,http://metro.kingcounty.gov/tops/bus/schedules/s013_0_.html,seattle pacific university,13
+,3,,,KCM,100027,http://metro.kingcounty.gov/tops/bus/schedules/s129_0_.html,North Sea Tac/ Riverton Heights,129
+,3,,,KCM,100026,http://metro.kingcounty.gov/tops/bus/schedules/s128_0_.html,West Seattle-White Center to SouthCenter,128
+,3,,,KCM,100234,http://metro.kingcounty.gov/tops/bus/schedules/s054_0_.html,Fauntleroy/White Center,54
+,3,,,ST,100235,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/540-Weekday.xml,Kirkland U District,540
+,3,,,ST,100232,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/522-Weekday.xml,ST 522 Woodinville-Seattle CBD,522
+,3,,,KCM,100233,http://metro.kingcounty.gov/tops/bus/schedules/s053_0_.html,W Seattle/Alki Shuttle,53
+,3,,,KCM,100021,http://metro.kingcounty.gov/tops/bus/schedules/s122_0_.html,Des moines express,122
+,3,,,KCM,100020,http://metro.kingcounty.gov/tops/bus/schedules/s121_0_.html,Normandy Park express,121
+,3,,,KCM,100290,http://metro.kingcounty.gov/tops/bus/schedules/s901_0_.html,Federal Way/Dash Point DART,901
+,3,,,KCM,100292,http://metro.kingcounty.gov/tops/bus/schedules/s903_0_.html,Federal Way - S Twin Lakes,903
+,3,,,KCM,100293,http://metro.kingcounty.gov/tops/bus/schedules/s908_0_.html,Renton Highlands DART,908
+,3,,,KCM,100294,http://metro.kingcounty.gov/tops/bus/schedules/s909_0_.html,Highlands/Kennydale DART,909
+,3,,,KCM,100295,http://metro.kingcounty.gov/tops/bus/schedules/s912_0_.html,Enumclaw/Lake Sawyers/Covington,912
+,3,,,KCM,100296,http://metro.kingcounty.gov/tops/bus/schedules/s913_0_.html,Kent - Riverview,913
+,3,,,KCM,100297,http://metro.kingcounty.gov/tops/bus/schedules/s914_0_.html,Kent Shopper Shuttle (DART),914
+,3,,,KCM,100250,http://metro.kingcounty.gov/tops/bus/schedules/s600_0_.html,Group Health Coop - CBD,600
+,3,,,KCM,100495,http://metro.kingcounty.gov/tops/bus/schedules/s193_0_.html,Star Lk. to First Hill,193
+,3,,,ST,100517,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/578-Weekday.xml,Sounder PM Sweeper,578
+,3,,,KCM,100259,http://metro.kingcounty.gov/tops/bus/schedules/s067_0_.html,Northgate to UW Campus thru Roosevelt,67
+,3,,,KCM,100513,http://metro.kingcounty.gov/tops/bus/schedules/s910_0_.html,Supermall - North Auburn,910
+,3,,,KCM,100159,http://metro.kingcounty.gov/tops/bus/schedules/s268_0_.html,Seattle/Bear Creek,268
+,3,,,ST,100511,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/542-Weekday.xml,Redmond U District,542
+,3,,,KCM,100106,http://metro.kingcounty.gov/tops/bus/schedules/s214_0_.html,Seattle - Issaquah 908,214
+,3,,,ST,100521,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/593-Weekday.xml,PT Route 593,593
+,3,,,ST,100519,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/590-Weekday.xml,Route 590 Tacoma Seattle Express,590
+,3,,,ST,100522,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/594-Weekday.xml,PT Route 594,594
+,3,,,KCM,100342,http://metro.kingcounty.gov/tops/bus/schedules/s983_0_.html,Issaquah Lakeside,983
+,3,,,KCM,100218,http://metro.kingcounty.gov/tops/bus/schedules/s039_0_.html,Seward Pk- Rainier Beach,39
+,0,,,EOS,100340,http://www.seattlestreetcar.org/about,South Lake Union Streetcar,98
+,3,,,KCM,100341,http://metro.kingcounty.gov/tops/bus/schedules/s982_0_.html,Lakeside\UPrep Bear Creek PR,982
+,3,,,KCM,100346,http://metro.kingcounty.gov/tops/bus/schedules/s988_0_.html,Lakeside School Custom Bus,988
+,3,,,KCM,100109,http://metro.kingcounty.gov/tops/bus/schedules/s217_0_.html,Issaquah/CBD,217
+,3,,,KCM,100344,http://metro.kingcounty.gov/tops/bus/schedules/s986_0_.html,Lakeside School,986
+,3,,,KCM,100219,http://metro.kingcounty.gov/tops/bus/schedules/s004_0_.html,Route 4,4
+,3,,,KCM,100104,http://metro.kingcounty.gov/tops/bus/schedules/s212_0_.html,Eastgate P & R Express (Tunnel),212
+,3,,,KCM,100105,http://metro.kingcounty.gov/tops/bus/schedules/s213_0_.html,Covenant Shores Van Shuttle,213
+,3,,,KCM,100348,http://metro.kingcounty.gov/tops/bus/schedules/s099_0_.html,Waterfront,99
+,3,,,KCM,100107,http://metro.kingcounty.gov/tops/bus/schedules/s215_0_.html,N Bend  Seattle,215
+,3,,,KCM,100100,http://metro.kingcounty.gov/tops/bus/schedules/s209_0_.html,Issaquah/North Bend Shuttle,209
+,3,,,KCM,100101,http://metro.kingcounty.gov/tops/bus/schedules/s021_0_.html,35  Av SW/Arbor Heights,21
+,3,,,KCM,100102,http://metro.kingcounty.gov/tops/bus/schedules/s210_0_.html,Issaquah,210
+,3,,,ST,100451,http://www.soundtransit.org/Riding-Sound-Transit/Schedules-and-Facilities/ST-Express-Bus/556-Weekday.xml,Issaquah/UW/NTC,556
+,3,,,KCM,100184,http://metro.kingcounty.gov/tops/bus/schedules/s031_0_.html,Magnolia to University,31
+,3,,,KCM,100058,http://metro.kingcounty.gov/tops/bus/schedules/s166_0_.html,Highline C C to Kent P&R,166
+,3,,,KCM,100187,http://metro.kingcounty.gov/tops/bus/schedules/s312_0_.html,Woodinville/Bothell Express route,312
+,3,,,KCM,100180,http://metro.kingcounty.gov/tops/bus/schedules/s306_0_.html,Kenmore tunnel route,306
+,3,,,KCM,100228,http://metro.kingcounty.gov/tops/bus/schedules/s048_0_.html,Route 48,48
+,3,,,KCM,100182,http://metro.kingcounty.gov/tops/bus/schedules/s308_0_.html,Aurora Village Via Lake Forest Park,308
+,3,,,KCM,100183,http://metro.kingcounty.gov/tops/bus/schedules/s309_0_.html,Kenmore - S Lk Union - First Hill,309
+,3,,,KCM,100052,http://metro.kingcounty.gov/tops/bus/schedules/s159_0_.html,Kent-Kangley-Timberlane--I-5-Seneca St.,159
+,3,,,KCM,100053,http://metro.kingcounty.gov/tops/bus/schedules/s016_0_.html,Meridian,16
+,3,,,KCM,100050,http://metro.kingcounty.gov/tops/bus/schedules/s155_0_.html,FAIRWOOD TO SOUTHCENTER,155
+,3,,,KCM,100226,http://metro.kingcounty.gov/tops/bus/schedules/s046_0_.html,University - Ballard,46
+,3,,,KCM,100221,http://metro.kingcounty.gov/tops/bus/schedules/s041_0_.html,Lake City/Northgate/CBD,41
+,3,,,KCM,100057,http://metro.kingcounty.gov/tops/bus/schedules/s164_0_.html,GGreen River Coll-Kent P&R Via Lk. Meridian P&R,164
+,3,,,KCM,100223,http://metro.kingcounty.gov/tops/bus/schedules/s043_0_.html,cbd/u-district,43
+,3,,,KCM,100055,http://metro.kingcounty.gov/tops/bus/schedules/s162_0_.html,S.Hill Kent- I-5 - Seneca St.,162
+,3,,,KCM,100253,http://metro.kingcounty.gov/tops/bus/schedules/s064_0_.html,Lake City - CBD - First Hill,64
+,3,,,KCM,100289,http://metro.kingcounty.gov/tops/bus/schedules/s009_0_.html,broadway  /  rainier,9
+,3,,,KCM,100343,http://metro.kingcounty.gov/tops/bus/schedules/s984_0_.html,Lakeside School to Central Area,984
+,3,,,KCM,100287,http://metro.kingcounty.gov/tops/bus/schedules/s891_0_.html,Mercer Island HS South Island,891
+,3,,,KCM,100286,http://metro.kingcounty.gov/tops/bus/schedules/s890_0_.html,Sammamish HS/Eastgate/Bellevue,890
+,3,,,KCM,100285,http://metro.kingcounty.gov/tops/bus/schedules/s889_0_.html,Sammamish HS/International School,889
+,3,,,KCM,100148,http://metro.kingcounty.gov/tops/bus/schedules/s257_0_.html,Seattle/Juanita/Kingsgate,257
+,3,,,KCM,100283,http://metro.kingcounty.gov/tops/bus/schedules/s886_0_.html,Bellevue High School,886
+,3,,,KCM,100282,http://metro.kingcounty.gov/tops/bus/schedules/s885_0_.html,Bellevue HS/International School,885
+,3,,,KCM,100280,http://metro.kingcounty.gov/tops/bus/schedules/s085_0_.html,West Seattle Admiral/White Center,85
+,3,,,KCM,100210,http://metro.kingcounty.gov/tops/bus/schedules/s036_0_.html,Jefferson Park/Rainier Beach,36
+,3,,,KCM,100108,http://metro.kingcounty.gov/tops/bus/schedules/s216_0_.html,Sammamish/CBD,216
+,3,,,KCM,100043,http://metro.kingcounty.gov/tops/bus/schedules/s149_0_.html,Black Diamond-Maple Valley-Renton Hub,149
+,3,,,KCM,100347,http://metro.kingcounty.gov/tops/bus/schedules/s989_0_.html,Eastgate Lakeside,989
+,3,,,KCM,100351,http://metro.kingcounty.gov/tops/bus/schedules/s995_0_.html,Laurelhurst-Lakeside-Evergreen Schools,995
+,3,,,KCM,100350,http://metro.kingcounty.gov/tops/bus/schedules/s994_0_.html,Downtown/Magnolia/Ballard/Lakeside,994
+,3,,,KCM,100198,http://metro.kingcounty.gov/tops/bus/schedules/s034_0_.html,Downtown Sea/Rainier Beach express,34
+,3,,,KCM,100448,http://metro.kingcounty.gov/tops/bus/schedules/s248_0_.html,Redmond-Kirkland,248
+,3,,,KCM,100113,http://metro.kingcounty.gov/tops/bus/schedules/s221_0_.html,Eastgate\Redmond,221
+,3,,,KCM,100045,http://metro.kingcounty.gov/tops/bus/schedules/s150_0_.html,Kent-Southcenter to C.B.D. & Tunnel,150
+,3,,,KCM,100447,http://metro.kingcounty.gov/tops/bus/schedules/s049_0_.html,CBD-Cap Hill-U Dist,49
+,3,,,KCM,100345,http://metro.kingcounty.gov/tops/bus/schedules/s987_0_.html,Lakeside School-Rainier Beach,987
+,3,,,KCM,100116,http://metro.kingcounty.gov/tops/bus/schedules/s225_0_.html,CPS/Eastgate/164 Av SE/Overlake,225
+,3,,,KCM,100215,http://metro.kingcounty.gov/tops/bus/schedules/s373_0_.html,Aurora Village - University District,373
+,3,,,KCM,100049,http://metro.kingcounty.gov/tops/bus/schedules/s154_0_.html,Tukwila Station  - Federal Center S.,154
+,3,,,KCM,100269,http://metro.kingcounty.gov/tops/bus/schedules/s075_0_.html,UW - NTC - Ballard,75
+,3,,,KCM,100190,http://metro.kingcounty.gov/tops/bus/schedules/s316_0_.html,Meridian Park express,316
+,3,,,KCM,100487,http://metro.kingcounty.gov/tops/bus/schedules/s102_0_.html,Fairwood - Seattle,102
+,3,,,KCM,100195,http://metro.kingcounty.gov/tops/bus/schedules/s330_0_.html,Lake City - Shoreline CC,330
+,3,,,KCM,100194,http://metro.kingcounty.gov/tops/bus/schedules/s033_0_.html,Ft Lawton,33
+,3,,,KCM,100041,http://metro.kingcounty.gov/tops/bus/schedules/s143_0_.html,Maple Valley & Renton to C.B.D. Via Sr 900 & I-5,143
+,3,,,KCM,100040,http://metro.kingcounty.gov/tops/bus/schedules/s140_0_.html,Renton to Burien,140
+,3,,,KCM,100212,http://metro.kingcounty.gov/tops/bus/schedules/s037_0_.html,Alki,37
+,3,,,KCM,100042,http://metro.kingcounty.gov/tops/bus/schedules/s148_0_.html,Fairwood--S.Renton Hub Shuttle.,148
+,3,,,KCM,100214,http://metro.kingcounty.gov/tops/bus/schedules/s372_0_.html,Woodinville/University,372
+,3,,,KCM,100301,http://metro.kingcounty.gov/tops/bus/schedules/s918_0_.html,N KENT-KENT STATION DEMO SHUTTLE,918
+,3,,,KCM,100047,http://metro.kingcounty.gov/tops/bus/schedules/s152_0_.html,Enumclaw-Auburn-Star Lk. I-5 to C.B.D.,152
+,3,,,KCM,100217,http://metro.kingcounty.gov/tops/bus/schedules/s038_0_.html,909 Beacon Hill/Mt Baker TC Shuttle,38

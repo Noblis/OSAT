@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+           http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-2.5.xsd">
+
+    <bean id="graphBundle" class="org.opentripplanner.model.GraphBundle">
+        <property name="path" value="C:/Users/m14661/Documents/Balanced Scorecard NSR/Accessibility Project/Summer2011/Summer2011/King_Data/GraphBuilder" />
+    </bean>
+
+    <bean id="gtfsBuilder" class="org.opentripplanner.graph_builder.impl.GtfsGraphBuilderImpl">
+					<property name="gtfsBundles">
+						<bean id="gtfsBundles" class="org.opentripplanner.graph_builder.model.GtfsBundles">
+							<property name="bundles">
+							<list>
+								<bean class="org.opentripplanner.graph_builder.model.GtfsBundle">
+									<property name="path" value="C:/Users/m14661/Documents/Balanced Scorecard NSR/Accessibility Project/Summer2011/Summer2011/King_Data/GTFS/kingcounty2011.zip" />
+									<property name="defaultAgencyId" value="King" /> 
+								</bean>
+								<!--<bean class="org.opentripplanner.graph_builder.model.GtfsBundle">
+									<property name="path" value="C:/Summer2011/King_Data/GTFS/community-transit2011.zip" />
+									<property name="defaultAgencyId" value="Community" />
+								</bean>
+								<bean class="org.opentripplanner.graph_builder.model.GtfsBundle">
+									<property name="path" value="C:/Summer2011/King_Data/GTFS/soundtransit2011.zip" />
+									<property name="defaultAgencyId" value="Sound" />
+								</bean>-->
+							</list>
+							</property>
+						</bean>
+					</property>
+				</bean>
+
+    <bean id="osmBuilder" class="org.opentripplanner.graph_builder.impl.osm.OpenStreetMapGraphBuilderImpl">
+        <property name="provider">
+			<!-- Use an OSM provider that reads a file-->
+			<bean class="org.opentripplanner.graph_builder.impl.osm.StreamedFileBasedOpenStreetMapProviderImpl">
+				<property name="path" value="C:/Users/m14661/Documents/Balanced Scorecard NSR/Accessibility Project/Summer2011/Summer2011/King_Data/GraphBuilder/king.osm">
+				</property>
+			</bean>
+		</property>
+		<property name="defaultAccessPermissionsSource">
+			<bean class="org.opentripplanner.graph_builder.impl.osm.DefaultOSMStreetTraversalPermissionsSource" />
+	    </property>
+    </bean>
+
+    <bean id="transitStreetLink" class="org.opentripplanner.graph_builder.impl.TransitToStreetNetworkGraphBuilderImpl" />
+	<bean id="optimizeTransit" class="org.opentripplanner.graph_builder.impl.OptimizeTransitGraphBuilderImpl" />
+	
+    <bean id="graphBuilderTask" class="org.opentripplanner.graph_builder.GraphBuilderTask">
+		<property name="modes">
+			<list>
+				<bean class="org.opentripplanner.routing.contraction.ModeAndOptimize">
+					<constructor-arg><value>WALK</value></constructor-arg>
+					<constructor-arg><value>QUICK</value></constructor-arg>
+				</bean>
+			</list>
+		</property>
+		<property name="contractionFactor" value="1" />
+        <property name="graphBundle" ref="graphBundle" />
+        <property name="graphBuilders">
+            <list>
+                <!-- GTFS comes before OSM, because we use the loaded set of stops to determine our OSM coverage -->
+                <ref bean="gtfsBuilder" />
+                <ref bean="osmBuilder" />
+                <ref bean="transitStreetLink" />
+				<ref bean="optimizeTransit" />
+            </list>
+        </property>
+
+
+    </bean>
+
+</beans>

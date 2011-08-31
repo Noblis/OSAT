@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/jts-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/napkinlaf-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/napkinlaf-swingset-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/onebusaway-gtfs-1.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/poi-examples-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/poi-ooxml-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/poi-ooxml-schemas-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="C:/Users/M29313/Desktop/jars/poi-scratchpad-3.7-20101029.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opentripplanner-api-extended"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opentripplanner-geocoder"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opentripplanner-graph-builder"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opentripplanner-gui"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opentripplanner-integration"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opentripplanner-routing"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opentripplanner-utils"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opentripplanner-webapp"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/opentripplanner-api-webapp"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

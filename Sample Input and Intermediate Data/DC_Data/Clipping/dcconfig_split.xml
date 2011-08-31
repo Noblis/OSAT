@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<split>1</split>
+	<keepTAZ>-1</keepTAZ>
+	<manualadjust>0</manualadjust>
+	<kmlpath_taz>C:/Summer2011/DC_Data/Shape2Earth/DCGIS_TAZPly.kml</kmlpath_taz>
+	<kmlpath_bg>C:/Summer2011/DC_Data/Shape2Earth/BlockGroupPly_2000.kml</kmlpath_bg>
+	<round>-5</round>
+	<areaFilter>.2</areaFilter>
+	<output>C:/Summer2011/DC_Data/Clipping/dc_split.kml</output>
+	<gtfs>C:/Summer2011/DC_Data/GTFS/dc_circ/stops.txt</gtfs>
+	<gtfs>C:/Summer2011/DC_Data/GTFS/wmata/stops.txt</gtfs>
+	<maxDist>.008</maxDist>	<!-- about 800m -->
+	<remove>538</remove>
+	<remove>429</remove>
+	<remove>923</remove>
+	<remove>430</remove>
+	<remove>431</remove>
+	<remove>537</remove>
+	<remove>521</remove>
+	<remove>522</remove>
+	<remove>432</remove>
+	<remove>972</remove>
+	<remove>424</remove>
+	<remove>2</remove>
+	<remove>40</remove>
+	<remove>39</remove>
+	<remove>201</remove>
+	<remove>1022</remove>
+	<remove>480</remove>
+	<remove>479</remove>
+	<remove>549</remove>
+	<remove>535</remove>
+	<remove>426</remove>
+	<remove>971</remove>
+	<adjust id="200">-77.107951,38.928058</adjust>
+	<adjust id="210">-77.097374,38.916342</adjust>
+	<adjust id="206">-77.086203,38.907919</adjust>
+	<adjust id="37">-77.070189,38.905811</adjust>
+	<adjust id="427">-77.045656,38.884808</adjust>
+	<adjust id="453">-77.036073,38.880877</adjust>
+	<adjust id="428">-77.027075,38.871859</adjust>
+	<adjust id="921">-77.018901,38.873462</adjust>
+	<adjust id="922">-77.016837,38.866773</adjust>
+	<adjust id="393">-77.011017,38.867756</adjust>
+	<adjust id="536">-77.010838,38.854007</adjust>
+	<adjust id="539">-77.016119,38.838488</adjust>
+	<adjust id="540">-77.021686,38.824563</adjust>
+	<adjust id="918">-77.021630,38.819658</adjust>
+	<adjust id="919">-77.022411,38.815704</adjust>
+	<adjust id="533">-77.002231,38.874306</adjust>
+	<adjust id="635">-76.983313,38.869749</adjust>
+	<adjust id="724">-76.959582,38.884843</adjust>
+	<adjust id="674">-76.965875,38.877926</adjust>
+</config>

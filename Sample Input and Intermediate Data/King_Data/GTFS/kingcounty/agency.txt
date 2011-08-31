@@ -1,0 +1,5 @@
+agency_phone,fare_url,agency_url,agency_id,agency_name,agency_timezone,agency_lang
+206-684-7623,http://www.seattlestreetcar.org/about/,http://www.seattle.gov,EOS,City of Seattle,America/Los_Angeles,en
+206-553-3000,http://metro.kingcounty.gov/tops/bus/fare/fare-info.html#fare_matrix,http://metro.kingcounty.gov,KCM,Metro Transit,America/Los_Angeles,en
+206-684-1515,http://www.kingcounty.gov/transportation/kcdot/Marine.aspx/,http://www.kingcounty.gov/transportation/kcdot/Marine.aspx,KMD,King County Marine Division,America/Los_Angeles,en
+1-888 889-6368,http://www.soundtransit.org/Riding-Sound-Transit/Fares-and-Passes/ST-Express-Bus.xml,http://www.soundtransit.org/,ST,Sound Transit,America/Los_Angeles,en

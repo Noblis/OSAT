@@ -1,0 +1,6 @@
+<config>
+	<input_dir>C:/kingCounty/</input_dir>
+	<output_dir>C:/kingCountyRevised/</output_dir>
+	<kml_read_in>C:/Documents and settings/m29455/desktop/king county/kingCentroid.kml</kml_read_in>
+	<tiger_dir>C:/documents and settings/m29455/desktop/kingtiger/</tiger_dir>
+</config>

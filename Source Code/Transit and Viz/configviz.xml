@@ -1,0 +1,21 @@
+<!-- original DC TAZ data-->
+<!--<config>
+	<kml_path>C:/Summer2011/DC_Data/Clipping/2010Census/dc_taz.kml</kml_path>
+	<taz_dir>C:/Summer2011/DC_Data/OTPOutput/TAZ/</taz_dir>
+	<logo_path>noblislogo.jpg</logo_path>
+</config>-->
+
+<!-- King County incomplete BG, no employment/population data-->
+<config>
+	<kml_path>C:/Summer2011/King_Data/Clipping/king_bg.kml</kml_path>
+	<taz_dir>C:/Summer2011/King_Data/OTPOutput/BG_DataAdded/</taz_dir>
+	<logo_path>noblislogo.jpg</logo_path>
+</config>
+
+
+<!--DC BG data with no employment/population data-->
+<!--<config>
+	<kml_path>C:/Summer2011/DC_Data/Clipping/2010Census/dc_bg.kml</kml_path>
+	<taz_dir>C:/Summer2011/DC_Data/OTPOutput/BG/</taz_dir>
+	<logo_path>noblislogo.jpg</logo_path>
+</config>-->

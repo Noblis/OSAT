@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>PublicTransit2011</name>
+	<comment></comment>
+	<projects>
+		<project>OpenTripPlanner</project>
+		<project>opentripplanner-admin-webapp</project>
+		<project>opentripplanner-api-extended</project>
+		<project>opentripplanner-api-webapp</project>
+		<project>opentripplanner-geocoder</project>
+		<project>opentripplanner-graph-builder</project>
+		<project>opentripplanner-gui</project>
+		<project>opentripplanner-integration</project>
+		<project>opentripplanner-routing</project>
+		<project>opentripplanner-utils</project>
+		<project>opentripplanner-webapp</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>

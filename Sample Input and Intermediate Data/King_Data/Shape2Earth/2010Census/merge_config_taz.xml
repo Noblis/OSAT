@@ -1,0 +1,5 @@
+<config>
+	<merge>C:/Summer2011/King_Data/Shape2Earth/kin00taz_part1.kml</merge>
+	<merge>C:/Summer2011/King_Data/Shape2Earth/kin00taz_part2.kml</merge>
+	<output>C:/Summer2011/King_Data/Shape2Earth/kin00taz.kml</output>
+</config>

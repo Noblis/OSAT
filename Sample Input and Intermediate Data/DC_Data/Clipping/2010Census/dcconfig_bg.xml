@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<split>0</split>
+	<keepTAZ>0</keepTAZ>
+	<manualadjust>1</manualadjust>
+	<kmlpath_taz>C:/Summer2011/DC_Data/Shape2Earth/DCGIS_TAZPly.kml</kmlpath_taz>
+	<kmlpath_bg>C:/Summer2011/DC_Data/Shape2Earth/DC10BlockGroup.kml</kmlpath_bg>
+	<round>-5</round>
+	<areaFilter>.2</areaFilter> <!--don't change, or remove/adjust will be off, must filter first, centroid calcs for small area polygon inaccurate-->
+	<output>C:/Summer2011/DC_Data/Clipping/dc_bg.kml</output>
+	<gtfs>C:/Summer2011/DC_Data/GTFS/dc_circ/stops.txt</gtfs>
+	<gtfs>C:/Summer2011/DC_Data/GTFS/wmata/stops.txt</gtfs>
+	<maxDist>.008</maxDist>	<!-- about 800m -->
+	<adjust id="87">-77.107381,38.928171</adjust>
+	<adjust id="80">-77.094798,38.917293</adjust>
+	<adjust id="81">-77.086533,38.910050</adjust>
+	<adjust id="16">-77.070263,38.906742</adjust>
+	<adjust id="0">-77.059718,38.904132</adjust>
+	<adjust id="183">-77.022442,38.888319</adjust>
+	<adjust id="444">-77.017121,38.868491</adjust>
+	<adjust id="213">-77.014183,38.842477</adjust>
+	<adjust id="442">-77.016709,38.816456</adjust>
+	<adjust id="449">-76.971550,38.913998</adjust>
+</config>

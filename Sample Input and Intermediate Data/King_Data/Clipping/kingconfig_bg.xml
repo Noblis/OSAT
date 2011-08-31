@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<split>0</split>
+	<keepTAZ>0</keepTAZ>
+	<manualadjust>1</manualadjust>
+	<kmlpath_taz>C:/Users/m14661/Documents/Balanced Scorecard NSR/Accessibility Project/Summer2011/Summer2011/King_Data/Shape2Earth/kin00taz.kml</kmlpath_taz>
+	<kmlpath_bg>C:/Users/m14661/Documents/Balanced Scorecard NSR/Accessibility Project/Summer2011/Summer2011/King_Data/Shape2Earth/king00bg.kml</kmlpath_bg>
+	<round>-5</round>
+	<areaFilter>.5</areaFilter> <!--don't change, or remove/adjust will be off, must filter first, centroid calcs for small area polygon inaccurate-->
+	<output>C:/Users/m14661/Documents/Balanced Scorecard NSR/Accessibility Project/Summer2011/Summer2011/King_Data/Clipping/king_bg.kml</output>
+	<!--<gtfs>C:/Summer2011/King_Data/GTFS/community-transit/stops.txt</gtfs>-->
+	<gtfs>C:/Users/m14661/Documents/Balanced Scorecard NSR/Accessibility Project/Summer2011/Summer2011/King_Data/GTFS/kingcounty/stops.txt</gtfs>
+	<!--<gtfs>C:/Summer2011/King_Data/GTFS/soundtransit/stops.txt</gtfs>-->
+	<maxDist>.008</maxDist> <!--about 800m-->
+	
+	<adjust id="570">-122.388408,47.770490</adjust>
+	<adjust id="610">-122.373426,47.759211</adjust>
+	<adjust id="569">-122.380080,47.770539</adjust>
+	<adjust id="613">-122.366097,47.745550</adjust>
+	<adjust id="23">-122.368491,47.723021</adjust>
+	<adjust id="61">-122.369575,47.706119</adjust>
+	<adjust id="66">-122.378766,47.703938</adjust>
+	<adjust id="65">-122.397569,47.697520</adjust>
+	<adjust id="134">-122.399899,47.687816</adjust>
+	<adjust id="142">-122.402863,47.675014</adjust>
+	<adjust id="253">-122.416134,47.661021</adjust>
+	<adjust id="246">-122.413955,47.648814</adjust>
+	<adjust id="247">-122.408042,47.638071</adjust>
+	<adjust id="265">-122.374640,47.633830</adjust>
+	<adjust id="367">-122.352545,47.615244</adjust>
+	<adjust id="370">-122.338198,47.606071</adjust>
+	<adjust id="407">-122.332268,47.600465</adjust>
+	<adjust id="426">-122.386748,47.591532</adjust>
+	<adjust id="447">-122.356097,47.576672</adjust>
+	<adjust id="409">-122.333891,47.589382</adjust>
+	<adjust id="429">-122.415782,47.575505</adjust>
+	<adjust id="491">-122.395398,47.550264</adjust>
+	<adjust id="544">-122.390981,47.534058</adjust>
+	<adjust id="543">-122.391854,47.523073</adjust>
+	<adjust id="566">-122.390626,47.510840</adjust>
+	<adjust id="1034">-122.470064,47.493686</adjust>
+	<adjust id="568">-122.375917,47.501856</adjust>
+	<adjust id="992">-122.369560,47.499050</adjust>
+	<adjust id="1030">-122.353597,47.479267</adjust>
+	<adjust id="1032">-122.365427,47.467082</adjust>
+	<adjust id="1033">-122.454779,47.468366</adjust>
+	<adjust id="1043">-122.368373,47.450040</adjust>
+	<adjust id="1080">-122.343780,47.449920</adjust>
+	<adjust id="1037">-122.450235,47.434601</adjust>
+	<adjust id="1076">-122.345938,47.423441</adjust>
+	<adjust id="1038">-122.421951,47.393083</adjust>
+	<adjust id="1099">-122.328753,47.402302</adjust>
+	<adjust id="1108">-122.324140,47.384649</adjust>
+	<adjust id="1213">-122.319757,47.358976</adjust>
+	<adjust id="1041">-122.432634,47.370953</adjust>
+	<adjust id="1229">-122.352079,47.335687</adjust>
+	<adjust id="1228">-122.364846,47.328311</adjust>
+	<adjust id="1250">-122.390852,47.324336</adjust>
+	<adjust id="1254">-122.398341,47.310993</adjust>
+	<adjust id="1040">-122.504801,47.362920</adjust>
+	<adjust id="1039">-122.477511,47.398176</adjust>
+	<adjust id="1036">-122.489736,47.427528</adjust>
+	<adjust id="1035">-122.480878,47.460459</adjust>
+	<adjust id="1361">-122.090347,47.317023</adjust>
+	<adjust id="1368">-122.037225,47.324631</adjust>
+	<adjust id="1436">-122.056655,47.362029</adjust>
+	<adjust id="1441">-122.040744,47.378304</adjust>
+	<adjust id="1381">-122.161194,47.361250</adjust>
+	<adjust id="1378">-122.152087,47.367268</adjust>
+	<adjust id="1387">-122.145085,47.409316</adjust>
+	<adjust id="1091">-122.290454,47.431076</adjust>
+	<adjust id="1094">-122.277528,47.430381</adjust>
+	<adjust id="912">-122.204270,47.486173</adjust>
+	<adjust id="914">-122.213510,47.484418</adjust>
+	<adjust id="555">-122.245629,47.511229</adjust>
+	<adjust id="549">-122.263715,47.526408</adjust>
+	<adjust id="858">-122.227276,47.530002</adjust>
+	<adjust id="516">-122.265122,47.536108</adjust>
+	<adjust id="865">-122.191601,47.533023</adjust>
+	<adjust id="515">-122.265208,47.542926</adjust>
+	<adjust id="854">-122.233466,47.547517</adjust>
+	<adjust id="853">-122.210887,47.547712</adjust>
+	<adjust id="822">-122.185370,47.570392</adjust>
+	<adjust id="462">-122.254668,47.552235</adjust>
+	<adjust id="848">-122.229585,47.567322</adjust>
+	<adjust id="847">-122.214218,47.563669</adjust>
+	<adjust id="846">-122.206998,47.573749</adjust>
+	<adjust id="821">-122.192642,47.581534</adjust>
+	<adjust id="842">-122.248455,47.582223</adjust>
+	<adjust id="455">-122.270309,47.564706</adjust>
+	<adjust id="416">-122.289792,47.587334</adjust>
+	<adjust id="844">-122.213288,47.579541</adjust>
+	<adjust id="820">-122.200718,47.584579</adjust>
+	<adjust id="818">-122.203756,47.593376</adjust>
+	<adjust id="838">-122.237542,47.591276</adjust>
+	<adjust id="395">-122.288918,47.596884</adjust>
+	<adjust id="353">-122.281896,47.619251</adjust>
+	<adjust id="837">-122.239606,47.621356</adjust>
+	<adjust id="816">-122.209869,47.604325</adjust>
+	<adjust id="826">-122.214113,47.616165</adjust>
+	<adjust id="291">-122.278953,47.632087</adjust>
+	<adjust id="290">-122.279045,47.639391</adjust>
+	<adjust id="835">-122.236682,47.637944</adjust>
+	<adjust id="833">-122.227063,47.638776</adjust>
+	<adjust id="829">-122.217042,47.646373</adjust>
+	<adjust id="742">-122.203060,47.648191</adjust>
+	<adjust id="179">-122.278311,47.653204</adjust>
+	<adjust id="174">-122.268632,47.665211</adjust>
+	<adjust id="741">-122.204277,47.663741</adjust>
+	<adjust id="723">-122.202734,47.670277</adjust>
+	<adjust id="715">-122.209426,47.679119</adjust>
+	<adjust id="170">-122.258235,47.680356</adjust>
+	<adjust id="718">-122.213901,47.690644</adjust>
+	<adjust id="707">-122.222813,47.703356</adjust>
+	<adjust id="94">-122.275378,47.693639</adjust>
+	<adjust id="710">-122.256807,47.714511</adjust>
+	<adjust id="41">-122.274826,47.701178</adjust>
+	<adjust id="1">-122.284336,47.726852</adjust>
+	<adjust id="625">-122.287312,47.739324</adjust>
+	<adjust id="686">-122.260374,47.738936</adjust>
+	<adjust id="629">-122.283714,47.753756</adjust>
+	<adjust id="634">-122.275881,47.759949</adjust>
+	<adjust id="637">-122.254963,47.758834</adjust>
+	<adjust id="201">-122.341635,47.669056</adjust>
+	<adjust id="139">-122.392653,47.668373</adjust>
+	<adjust id="254">-122.396246,47.655266</adjust>
+	<adjust id="263">-122.384557,47.654664</adjust>
+	<adjust id="207">-122.379516,47.664494</adjust>
+	<adjust id="205">-122.370356,47.663575</adjust>
+	<adjust id="268">-122.369717,47.652884</adjust>
+	<adjust id="279">-122.356969,47.648098</adjust>
+	<adjust id="278">-122.352631,47.645454</adjust>
+	<adjust id="241">-122.334569,47.648591</adjust>
+	<adjust id="275">-122.344447,47.640579</adjust>
+	<adjust id="307">-122.342092,47.632716</adjust>
+	<adjust id="305">-122.329851,47.628461</adjust>
+	<adjust id="283">-122.326598,47.641014</adjust>
+	<adjust id="284">-122.324916,47.645524</adjust>
+	<adjust id="230">-122.325103,47.656618</adjust>
+	<adjust id="229">-122.319371,47.656365</adjust>
+	<adjust id="280">-122.320068,47.648487</adjust>
+	<adjust id="238">-122.312553,47.651612</adjust>
+	<adjust id="281">-122.316412,47.642809</adjust>
+	<adjust id="285">-122.302773,47.644045</adjust>
+	<adjust id="239">-122.302972,47.655357</adjust>
+</config>

@@ -1,0 +1,96 @@
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>FeedValidator: wmata.zip</title>
+<style>
+body {font-family: Georgia, serif; background-color: white}
+.path {color: gray}
+div.problem {max-width: 500px}
+table.dump td,th {background-color: khaki; padding: 2px; font-family:monospace}
+table.dump td.problem,th.problem {background-color: dc143c; color: white; padding: 2px; font-family:monospace}
+table.count_outside td {vertical-align: top}
+table.count_outside {border-spacing: 0px; }
+table {border-spacing: 5px 0px; margin-top: 3px}
+h3.issueHeader {padding-left: 0.5em}
+h4.issueHeader {padding-left: 1em}
+.pass {background-color: lightgreen}
+.fail {background-color: yellow}
+.pass, .fail {font-size: 16pt}
+.header {background-color: white; font-family: Georgia, serif; padding: 0px}
+th.header {text-align: right; font-weight: normal; color: gray}
+.footer {font-size: 10pt}
+</style>
+</head>
+<body>
+GTFS validation results for feed:<br>
+<code><span class="path">C:\Summer2011\DC_Data\GTFS\</span><b>wmata.zip</b></code><br>
+FeedValidator extension used: None
+<br><br>
+<table>
+<tr><th class="header">Agencies:</th><td class="header"><a href="http://www.wmata.com/tripplanner">METRO</a></td></tr>
+<tr><th class="header">Routes:</th><td class="header">312</td></tr>
+<tr><th class="header">Stops:</th><td class="header">11507</td></tr>
+<tr><th class="header">Trips:</th><td class="header">34285</td></tr>
+<tr><th class="header">Shapes:</th><td class="header">1708</td></tr>
+<tr><th class="header">Effective:</th><td class="header">June 13, 2011 to December 09, 2011</td></tr>
+</table>
+<br>
+During the upcoming service dates Tue Jun 14 to Fri Aug 12:
+<table>
+<tr><th class="header">Average trips per date:</th><td class="header">14341</td></tr>
+<tr><th class="header">Most trips on a date:</th><td class="header">16713, on 9 service dates (Fri Jun 17, Fri Jun 24, Fri Jul 01, ...)</td></tr>
+<tr><th class="header">Least trips on a date:</th><td class="header">7373, on 8 service dates (Sun Jun 19, Sun Jun 26, Sun Jul 03, ...)</td></tr>
+</table>
+<br>
+<span class="fail">Found these problems:</span>
+<table class="count_outside">
+<tr><td><span class="fail">7065 warnings</span></td></tr>
+<tr><td>
+<table><tr><td>205</td><td><a href="#WarningInvalidValue">Invalid Values</a></td></tr>
+<tr><td>442</td><td><a href="#WarningStopTooFarFromShapeWithDistTraveled">Stop Too Far From Shape With Dist Traveleds</a></td></tr>
+<tr><td>1</td><td><a href="#WarningStopWithMultipleRouteTypes">Stop With Multiple Route Types</a></td></tr>
+<tr><td>460</td><td><a href="#WarningStopsTooClose">Stops Too Closes</a></td></tr>
+<tr><td>5957</td><td><a href="#WarningTooFastTravel">Too Fast Travels</a></td></tr>
+</table>
+</td>
+</table>
+<br><br>
+<h3 class="issueHeader">Warnings:</h3><h4 class="issueHeader"><a name="WarningInvalidValue">Invalid Value</a></h4><ul>
+<li><div class="problem">Invalid value 6.0347 in field <code>stoptimes.shape_dist_traveled</code><br>For the trip 15062 the stop 8038 has shape_dist_traveled=6.0347, which should be larger than the previous ones. In this case, the previous distance was 6.0347.</div><br></li>
+<li><div class="problem">Invalid value 6.0347 in field <code>stoptimes.shape_dist_traveled</code><br>For the trip 15216 the stop 8038 has shape_dist_traveled=6.0347, which should be larger than the previous ones. In this case, the previous distance was 6.0347.</div><br></li>
+<li><div class="problem">Invalid value 6.0347 in field <code>stoptimes.shape_dist_traveled</code><br>For the trip 15217 the stop 8038 has shape_dist_traveled=6.0347, which should be larger than the previous ones. In this case, the previous distance was 6.0347.</div><br></li>
+<li><div class="problem">Invalid value 6.0347 in field <code>stoptimes.shape_dist_traveled</code><br>For the trip 15214 the stop 8038 has shape_dist_traveled=6.0347, which should be larger than the previous ones. In this case, the previous distance was 6.0347.</div><br></li>
+<li><div class="problem">Invalid value 6.0347 in field <code>stoptimes.shape_dist_traveled</code><br>For the trip 15215 the stop 8038 has shape_dist_traveled=6.0347, which should be larger than the previous ones. In this case, the previous distance was 6.0347.</div><br></li>
+<li>and 200 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningStopTooFarFromShapeWithDistTraveled">Stop Too Far From Shape With Dist Traveled</a></h4><ul>
+<li><div class="problem">For trip 12752 the stop "GREENBELT STATION & BUS BAY D" (ID 29491) is 21433 meters away from the corresponding point (shape_dist_traveled: 9.292800) on shape 784. It should be closer than 1000 meters.</div><br></li>
+<li><div class="problem">For trip 12750 the stop "GREENBELT STATION & BUS BAY D" (ID 29491) is 21433 meters away from the corresponding point (shape_dist_traveled: 9.292800) on shape 784. It should be closer than 1000 meters.</div><br></li>
+<li><div class="problem">For trip 12751 the stop "GREENBELT STATION & BUS BAY D" (ID 29491) is 21433 meters away from the corresponding point (shape_dist_traveled: 9.292800) on shape 784. It should be closer than 1000 meters.</div><br></li>
+<li><div class="problem">For trip 12800 the stop "GREENBELT STATION & BUS BAY D" (ID 29491) is 21433 meters away from the corresponding point (shape_dist_traveled: 9.292800) on shape 786. It should be closer than 1000 meters.</div><br></li>
+<li><div class="problem">For trip 12801 the stop "GREENBELT STATION & BUS BAY D" (ID 29491) is 21433 meters away from the corresponding point (shape_dist_traveled: 9.292800) on shape 786. It should be closer than 1000 meters.</div><br></li>
+<li>and 437 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningStopWithMultipleRouteTypes">Stop With Multiple Route Types</a></h4><ul>
+<li><div class="problem">Stop MT VERNON SQ/7TH ST-CONVENTION CENTER (ID=10344) belongs to both subway (ID=265) and bus line (ID=97).</div><br></li>
+</ul>
+<h4 class="issueHeader"><a name="WarningStopsTooClose">Stops Too Close</a></h4><ul>
+<li><div class="problem">The stops "HUNTINGTON STATION (N) & BUS BAY B" (ID 29325) and "HUNTINGTON STATION (N) & BUS BAY C" (ID 29332) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "VAN DORN METRO STATION" (ID 10352) and "VAN DORN METRO STA & BUS BAY A" (ID 29303) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "KING ST STA & BUS BAY B" (ID 30052) and "KING ST STA & BUS BAY A" (ID 25929) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "KING ST STA & BUS BAY B" (ID 30052) and "KING ST STA & BUS BAY B" (ID 30046) are 0.00m apart and probably represent the same location.</div><br></li>
+<li><div class="problem">The stops "KING ST STA & BUS BAY B" (ID 30052) and "KING ST STATION & BUS BAY D" (ID 29226) are 0.00m apart and probably represent the same location.</div><br></li>
+<li>and 455 more of this type.</ul>
+<h4 class="issueHeader"><a name="WarningTooFastTravel">Too Fast Travel</a></h4><ul>
+<li><div class="problem">High speed travel detected in trip 12752: BWI AIRPORT STOP 2 to GREENBELT STATION & BUS BAY D. 28343 meters in 660 seconds. (155 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 12750: BWI AIRPORT STOP 2 to GREENBELT STATION & BUS BAY D. 28343 meters in 660 seconds. (155 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 12751: BWI AIRPORT STOP 2 to GREENBELT STATION & BUS BAY D. 28343 meters in 660 seconds. (155 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 12800: BWI AIRPORT STOP 2 to GREENBELT STATION & BUS BAY D. 28343 meters in 624 seconds. (164 km/h).</div><br></li>
+<li><div class="problem">High speed travel detected in trip 12801: BWI AIRPORT STOP 2 to GREENBELT STATION & BUS BAY D. 28343 meters in 624 seconds. (164 km/h).</div><br></li>
+<li>and 5952 more of this type.</ul>
+
+<div class="footer">
+Generated by <a href="http://code.google.com/p/googletransitdatafeed/wiki/FeedValidator">
+FeedValidator</a> version 1.2.7 on June 14, 2011 at 10:04 AM Eastern Daylight Time.
+</div>
+</body>
+</html>

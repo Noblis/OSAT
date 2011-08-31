@@ -1,0 +1,11 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+1,1,Woodley Park - Adams Morgan - McPherson Square Metro,Woodley Park/Adams Morgan to McPherson Square Metro - Green Southbound,3
+2,1,McPherson Square Metro - Woodley Park - Adams Morgan,McPherson Square Metro to Woodley Park/Adams Morgan - Green Northbound,3
+3,1,Union Station - Navy Yard Metro,Union Station to Navy Yard Metro - Blue Southbound,3
+4,1,Navy Yard Metro - Union Station,Navy Yard Metro to Union Station - Blue Northbound,3
+6,1,Union Station - Georgetown,Union Station to Georgetown - Yellow Westbound,3
+7,1,Georgetown - Union Station,Georgetown to Union Station - Yellow Eastbound,3
+8,1,Convention Center - SW Waterfront,Convention Center to Southwest Waterfront - Red Southbound,3
+9,1,SW Waterfront - Convention Center,Southwest Waterfront to Convention Center - Red Northbound,3
+10,1,17th & K Streets - Whiteheaven,17th & K Streets to Whiteheaven - Yellow Westbound (extended service),3
+11,1,Whiteheaven - 17th & K Streets,Whiteheaven to 17th & K Streets - Yellow Eastbound (extended service),3
