@@ -1,5 +1,5 @@
 Introduction
-OSAT provides a set of tools, to be used in conjunction with OpenStreetMaps and various open data sources, for analyzing transportation accessibility (access to destinations) and for creating visualizations of the results.  
+OSAT (the Open Source Accessibility Toolkit) provides a set of tools, to be used in conjunction with OpenStreetMaps and various open data sources, for analyzing transportation accessibility (access to destinations) and for creating visualizations of the results.  
 
 The ability to reach desired goods, services, activities, and destinations is an important performance metric for transportation systems.  Accessibility is a mode neutral, user-focused, quantitative metric that allows alternatives to be evaluated on an equal footing.  Accessibility metrics place the focus on the end goal of the transportation system, which is rarely to provide travel for it’s own sake, but rather to meet a need.   Accessibility metrics are a powerful complement to other mobility metrics such as average travel speed or delay.
 
